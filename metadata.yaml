@@ -1,11 +1,16 @@
 _repo: The-Nile-in-1904_57379
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57379-h/images/cover_sm.jpg
 creator:
   author:
     agent_name: Willcocks, William
     gutenberg_agent_id: '49353'
     url: http://www.gutenberg.org/2009/agents/49353
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57379#The-Nile-in-1904
 gutenberg_issued: '2018-06-23'
 gutenberg_type: Text
 identifiers:
